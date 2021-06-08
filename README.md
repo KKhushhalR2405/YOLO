@@ -1,6 +1,6 @@
 # Object Detection using YOLO architecture
 
-## Working Screenshot
+## Working Screenshots
 
 <img src="https://github.com/KKhushhalR2405/YOLO/blob/master/images/test3.jpg" width="300" height="300">                                           
 
